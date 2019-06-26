@@ -1,0 +1,29 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #00b38f;
+  font-family: "Gentium Basic", serif;
+}
+body {
+  background-color: lightgrey;
+}
+#GifButtons {
+  text-align: center;
+  font-size: 25px;
+  font-family: "Gentium Basic", serif;
+}
+
+#gifs-appear-here {
+  align-items: center;
+  display: table;
+  justify-content: space-around;
+  margin: 40px;
+  font-family: "Gentium Basic", serif;
+  font-size: 18px;
+}
+#place-form {
+  text-align: center;
+  font-family: "Gentium Basic", serif;
+  font-size: 25px;
+  color: #00b38f;
+}
